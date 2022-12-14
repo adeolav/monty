@@ -63,4 +63,4 @@ builders.c  helper.c   hsh          README.md  test
 ```
 
 ### Authors
-[Oladee Adewunmi](https://github.com/Rachamv) and [Halima Iyke - Oginah](https://github.com/mastermind717)
+[Oladee Adewunmi](https://github.com/Rachamv)
